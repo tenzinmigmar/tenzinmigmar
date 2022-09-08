@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tenzinmigmar
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python, javascript, java, html, css & react. 
+- 🌱 I’m currently learning python, java, html, & css. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... @tnzmgmr on Twitter!
 
