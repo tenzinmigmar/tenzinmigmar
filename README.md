@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning, cryptography, bioinformatics & physics.
 - 🌱 I’m currently learning python, java, html, & css. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... @tnzmgmr on Twitter!
 
 <!---
 tenzinmigmar/tenzinmigmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
